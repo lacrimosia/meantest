@@ -1,0 +1,25 @@
+{
+  "name": "meanstack",
+  "description": "testing the mean stack",
+  "main": "index.js",
+  "authors": [
+    "Shatilla Prayer"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "AngularJS-Toaster": "toaster#^2.2.0",
+    "angular": "^1.6.9",
+    "angular-resource": "^1.6.9",
+    "angular-route": "^1.6.9"
+  }
+}
